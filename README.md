@@ -42,6 +42,7 @@
 - [Open-Source Models for Agents](#-open-source-models-for-agents)
 - [AI Safety and Guardrails](#-ai-safety--guardrails)
 - [Cybersecurity Agents](#-cybersecurity-agents)
+- [Healthcare and Therapy Agents](#-healthcare-and-therapy-agents)
 - [Learning Resources](#-learning-resources)
 - [Newsletters and Communities](#-newsletters--communities)
 - [Market Stats 2026](#-market-stats-2026)
@@ -481,6 +482,19 @@
 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | GPT-powered pentesting. Automated reasoning. |
 | [Microsoft Security Copilot](https://microsoft.com/security/copilot) | Enterprise threat detection, incident response. |
 | [CrowdStrike Charlotte AI](https://crowdstrike.com) | AI security analyst. Threat hunting. |
+
+---
+
+## 🏥 Healthcare and Therapy Agents
+
+| Agent | Description | Pricing |
+|-------|-------------|---------|
+| [CittaVerse 一念万相](https://github.com/cittaverse/core) | AI-assisted reminiscence therapy for elderly cognitive training. Narrative quality scoring (v0.7), life story book generation. Chinese + English. | Research pilot |
+| [Woebot](https://woebothealth.com) | CBT-based mental health chatbot. FDA-cleared. | Free / B2B |
+| [Wysa](https://wysa.io) | AI mental health companion. CBT, DBT, meditation. NHS-approved. | Free / Premium |
+| [Youper](https://youper.ai) | Emotional health assistant. CBT + ACT. Mood tracking. | Free / $12.99/mo |
+| [Sanvello](https://sanvello.com) | CBT tools, mood tracking, coaching. Insurance-covered. | Free / Premium |
+| [Talkspace AI](https://talkspace.com) | AI-assisted therapy matching. Human therapist backup. | Subscription |
 
 ---
 
